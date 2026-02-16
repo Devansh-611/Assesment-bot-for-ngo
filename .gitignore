@@ -1,0 +1,5 @@
+virenv/
+.env
+__pycache__/
+*.pyc
+.streamlit/
