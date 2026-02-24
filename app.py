@@ -16,9 +16,9 @@ client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
 MODEL_NAME = "gemini-2.5-flash"
 
-# streanlit title
+# streamlit title
 
-st.title("Email Evaluation Tutor & Assessment Bot for Non-Profit Organizations")
+st.title("Tutor Bot")
 
 
 #  settting vector db

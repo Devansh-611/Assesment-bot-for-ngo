@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+Pillow
+python-dotenv
+chromadb
+sentence-transformers
