@@ -1,6 +1,6 @@
 streamlit
 google-generativeai
-Pillow
 python-dotenv
+Pillow
 chromadb
 sentence-transformers
